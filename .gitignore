@@ -79,3 +79,4 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/go,windows,sublimetext
 .notes
+!cab-go-test.cab
